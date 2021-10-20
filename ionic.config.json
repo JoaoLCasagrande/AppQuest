@@ -1,0 +1,7 @@
+{
+  "name": "AppQuest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
