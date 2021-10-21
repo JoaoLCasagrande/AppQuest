@@ -25,3 +25,30 @@
 #container a {
   text-decoration: none;
 }
+
+ion-input{
+  font-size: 14px;
+  margin-left: 8px;
+  color: #8888f5;
+  border: 4px #00008B solid;
+}
+
+.campos{
+  font-size: 24px;
+  margin-bottom: 2px;
+  color: #00008B;
+  font-weight: bold;
+}
+
+.partes{
+  margin: 30px 10px 0px 10px;
+  border: 6px #00008B solid;
+  border-radius: 20px 0px 20px 0px;
+  padding: 0px 16px 10px 16px;
+}
+
+ion-title{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
